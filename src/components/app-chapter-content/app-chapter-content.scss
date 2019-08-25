@@ -1,0 +1,21 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+.chapter-content {
+  padding: 1em 1em 4em 1em;
+}
+
+.text-chapter {
+  font-size: 1.2em;
+}
+
+.yellow-highlight {
+  background: #FFFFCC; /* Default color, all browsers */
+}
+
+.yellow-highlight::selection {
+  background: #FFFF66; /* Selection color, WebKit/Blink Browsers */
+}
+
+.yellow-highlight::-moz-selection {
+  background: #FFFF66; /* Selection color, Gecko Browsers */
+}
