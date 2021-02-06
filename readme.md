@@ -12,7 +12,6 @@ npm run build
 npm test
 
 # todo
-
 [ ] fetch API
 [ ] dark theme
 ```

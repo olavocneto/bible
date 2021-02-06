@@ -9,7 +9,7 @@
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate",
-    "deploy": "npm run build && cd www && surge"
+    "deploy": "npm run build && cd www && npx surge"
   },
   "dependencies": {
     "@stencil/core": "^1.11.2",
