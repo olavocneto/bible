@@ -10,4 +10,9 @@ npm run build
 
 # to run the unit tests
 npm test
+
+# todo
+
+[ ] fetch API
+[ ] dark theme
 ```
