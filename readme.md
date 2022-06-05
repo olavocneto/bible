@@ -1,4 +1,6 @@
 ```bash
+Hello World, Stencil! 
+
 # install dependencies
 npm i
 
@@ -12,6 +14,6 @@ npm run build
 npm test
 
 # todo
-[ ] fetch API
+[x] fetch API
 [ ] dark theme
 ```
